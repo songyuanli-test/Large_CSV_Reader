@@ -31,7 +31,7 @@ def loadfilelist(filename):
     return filelist
 
 if __name__ == '__main__':
-    filename = 'bs_student_network_record.csv',
+    filename = 'source.csv',
     rows = []
     max_line = 1000000
     for name in filename:
